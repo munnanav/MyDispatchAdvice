@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars.Andean.DispatchAdvice"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars.Andean.BatchDispatchAdvice", "Mars.Andean.BatchDispatchAdvice\Mars.Andean.BatchDispatchAdvice.csproj", "{17E952F5-C608-44B5-907F-5B11AD998206}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
